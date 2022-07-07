@@ -1,6 +1,6 @@
 package main
 
-// banking application
+// banking application created as part of a Wiley training assessment using basic Golang features.
 // features: deposit, withdraw
 
 import (
